@@ -1,6 +1,6 @@
 ## Olá! Seja Bem vindo ao meu covil👋
 
-- 🔭 graduando em Engenharia de Computação na UTFPR
+- 🔭 Graduando em Engenharia de Computação na UTFPR
 - 🌱 Estudando Python
 - 🤔 A procura de estágio
 - 📫 Atuando em Toledo/PR
