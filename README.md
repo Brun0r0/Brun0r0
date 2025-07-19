@@ -1,16 +1,19 @@
 ## Hello! Welcome to my lair👋
+
 - 🔭 Computer Engineering undergraduate at UTFPR
 - 🌱 Studying Python
 - 🤔 Looking for internship opportunities
 - 📫 Based in Toledo/PR
 - ⚡ I enjoy logical algorithms and programming challenges
 <div style="display: inline_block"><br>
+          
 ## Programming Languages     
           
   <img align="center" alt="BruN-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg">
   <img align="center" alt="BruN-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="BruN-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
 ## Contact
  
 <div> 
