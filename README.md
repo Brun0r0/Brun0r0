@@ -9,9 +9,9 @@
           
 ## Programming Languages     
           
-  <img align="center" alt="BruN-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg">
-  <img align="center" alt="BruN-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="BruN-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="BruN-C" height="50" src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000">
+  <img align="center" alt="BruN-C" height="50" src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000">
+  <img align="center" alt="BruN-Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ## Contact
