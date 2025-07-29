@@ -12,7 +12,7 @@
 <div>
   <img align="center" alt="BruN-C" height="50" src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000">
   <img align="center" alt="BruN-C++" height="50" src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000">
-  <img align="center" alt="BruN-Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="BruN-Python" height="50" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
   <img align="center" alt="BruN-MatLab" height="50" src="https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000">
 </div>
 
